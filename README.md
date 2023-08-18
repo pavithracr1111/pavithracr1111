@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi Everyone I'm Pavithra, Aspiring C/C++ Programer
 🔭 I’m currently working on C/C++ DSA<br>👯 I’m looking to work on SDE<br>🤝 I’m looking for help to land on my first JOB<br>🌱 I’m currently learning  Data Structure and Algorithms<br>
 
 
